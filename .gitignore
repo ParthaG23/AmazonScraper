@@ -1,0 +1,10 @@
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# Scraped images
+images/
+
+# Scraped data outputs, logs, databases and checkpoints
+output/
